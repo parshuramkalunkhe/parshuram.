@@ -43,9 +43,14 @@
 
 * {
   font-family: 'Edu NSW ACT Foundation', cursive;
-  background: var(--background-color);
+  /* background: var(--background-color); */
   padding: 0;
   margin: 0;
+}
+
+body{
+  background-color: white;
+  color: black;
 }
 
 /* This is for main html page index.html  */
